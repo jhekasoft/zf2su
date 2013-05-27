@@ -34,6 +34,14 @@
         Исходный код по скринкасту: <a href="https://github.com/jhekasoft/zf2su">https://github.com/jhekasoft/zf2su</a>.</p>
     </div>
     <div>
+        <script type="text/javascript" src="//yandex.st/share/share.js"
+        charset="utf-8"></script>
+        <div class="yashare-auto-init" data-yashareL10n="ru"
+         data-yashareType="icon" data-yashareQuickServices="yaru,vkontakte,facebook,twitter,lj,gplus"
+
+        ></div>
+    </div>
+    <div>
         <div id="disqus_thread"></div>
         <script type="text/javascript">
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
