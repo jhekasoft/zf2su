@@ -22,21 +22,39 @@
 
 <body>
 <div style="width: 1000px; margin: 0 auto;">
-    <h1 style="float: left;">Zend Framework 2 скринкасты</h1>
-    <div style="padding-top: 30px;">&nbsp;&nbsp;&nbsp;<a href="/about.php">О сайте</a></div>
-    <div style="clear: both;"></div>
+    <a href="/" style="font-size: 30px;">Zend Framework 2 скринкасты</a>&nbsp;&nbsp;&nbsp;
+    <a href="/about.php">О сайте</a>
 
-    <p>Добро пожаловать на сайт посвящённый Zend Framework 2 (PHP-фреймворк)! Вышел первый скринкаст.</p>
-    <p>Контактный email: info@zf2.su</p>
-
-    <h2><a href="/screencast1.php">№1. Поднимаем Skeleton Application</a></h2>
+    <h1>№1. Поднимаем Skeleton Application</h1>
     <div>
         <iframe width="1000" height="563" src="http://www.youtube.com/embed/bI1T_4XqsMg" frameborder="0" allowfullscreen></iframe>
 
         <p>В этом видео поднимем базовый каркас на Zend Framework 2 и добавим новую страницу.
         Исходный код по скринкасту: <a href="https://github.com/jhekasoft/zf2su">https://github.com/jhekasoft/zf2su</a>.</p>
+    </div>
+    <div>
+        <script type="text/javascript" src="//yandex.st/share/share.js"
+        charset="utf-8"></script>
+        <div class="yashare-auto-init" data-yashareL10n="ru"
+         data-yashareType="icon" data-yashareQuickServices="yaru,vkontakte,facebook,twitter,lj,gplus"
 
-        <a href="/screencast1.php">Подробнее...</a>
+        ></div>
+    </div>
+    <div>
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'zf2su'; // required: replace example with your forum shortname
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
     </div>
 
     <div style="margin-top: 40px;">
