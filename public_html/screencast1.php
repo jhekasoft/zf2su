@@ -23,7 +23,7 @@
 <body>
 <div style="width: 1000px; margin: 0 auto;">
     <a href="/" style="font-size: 30px;">Zend Framework 2 скринкасты</a>&nbsp;&nbsp;&nbsp;
-    <a href="/about.php">О сайте</a>
+    <a href="/about">О сайте</a>
 
     <h1>№1. Поднимаем Skeleton Application</h1>
     <div>

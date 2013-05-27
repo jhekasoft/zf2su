@@ -23,20 +23,20 @@
 <body>
 <div style="width: 1000px; margin: 0 auto;">
     <h1 style="float: left;">Zend Framework 2 скринкасты</h1>
-    <div style="padding-top: 30px;">&nbsp;&nbsp;&nbsp;<a href="/about.php">О сайте</a></div>
+    <div style="padding-top: 30px;">&nbsp;&nbsp;&nbsp;<a href="/about">О сайте</a></div>
     <div style="clear: both;"></div>
 
     <p>Добро пожаловать на сайт посвящённый Zend Framework 2 (PHP-фреймворк)! Вышел первый скринкаст.</p>
     <p>Контактный email: info@zf2.su</p>
 
-    <h2><a href="/screencast1.php">№1. Поднимаем Skeleton Application</a></h2>
+    <h2><a href="/1-podnimayem-skeleton-application">№1. Поднимаем Skeleton Application</a></h2>
     <div>
         <iframe width="1000" height="563" src="http://www.youtube.com/embed/bI1T_4XqsMg" frameborder="0" allowfullscreen></iframe>
 
         <p>В этом видео поднимем базовый каркас на Zend Framework 2 и добавим новую страницу.
         Исходный код по скринкасту: <a href="https://github.com/jhekasoft/zf2su">https://github.com/jhekasoft/zf2su</a>.</p>
 
-        <a href="/screencast1.php">Подробнее...</a>
+        <a href="/1-podnimayem-skeleton-application">Подробнее...</a>
     </div>
 
     <div style="margin-top: 40px;">
