@@ -28,7 +28,7 @@
 
     <h2>№1. Поднимаем Skeleton Application</h2>
     <div>
-        <iframe width="1000" height="563" src="http://www.youtube.com/embed/FKD3VcFF6-0" frameborder="0" allowfullscreen></iframe>
+        <iframe width="1000" height="563" src="http://www.youtube.com/embed/bI1T_4XqsMg" frameborder="0" allowfullscreen></iframe>
 
         <p>В этом видео поднимем базовый каркас на Zend Framework 2 и добавим новую страницу.
         Исходный код по скринкасту: <a href="https://github.com/jhekasoft/zf2su">https://github.com/jhekasoft/zf2su</a>.</p>
