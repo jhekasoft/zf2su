@@ -45,15 +45,23 @@ input {
 /* Header
 -----------------------------------------------------------------------------*/
 #header {
-    height: 150px;
-    background: #FFE680;
+/*    height: 150px;*/
+/*    background: #DFDFDF;*/
 }
 
+#header ul.nav > li.active > a {
+    color: #000;
+}
+
+#header > .header-logo-block > .logo {
+    font-size: 25px;
+    line-height: 25px;
+}
 
 /* Middle
 -----------------------------------------------------------------------------*/
 #middle {
-    border-left: 250px solid #B5E3FF;
+/*    border-left: 250px solid #DFDFDF;*/
     height: 1%;
     position: relative;
 }
@@ -69,7 +77,7 @@ input {
     margin-right: -100%;
 }
 #content {
-    padding: 0 20px;
+/*    padding: 0 20px;*/
 }
 
 
@@ -79,7 +87,7 @@ input {
     float: left;
     width: 250px;
     position: relative;
-    background: #B5E3FF;
+/*    background: #DFDFDF;*/
     left: -250px;
 }
 
@@ -87,6 +95,6 @@ input {
 /* Footer
 -----------------------------------------------------------------------------*/
 #footer {
-    height: 100px;
-    background: #BFF08E;
+/*    height: 100px;*/
+/*    background: #DFDFDF;*/
 }
