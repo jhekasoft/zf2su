@@ -10,7 +10,7 @@ body {
     width: 100%;
 }
 a {
-    color: blue;
+    color: #00669d;
     outline: none;
     text-decoration: underline;
 }
@@ -51,6 +51,7 @@ input {
 
 #header ul.nav > li.active > a {
     color: #000;
+    text-decoration: none;
 }
 
 #header > .header-logo-block > .logo {
