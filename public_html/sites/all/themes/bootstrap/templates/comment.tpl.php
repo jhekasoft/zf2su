@@ -3,14 +3,14 @@
   <header>
     <p class="submitted">
       <?php print $picture; ?>
-      <?php print $submitted; ?>
+      <?php print $created; ?>
       <?php print $permalink; ?>
     </p>
 
     <?php print render($title_prefix); ?>
-    <?php if ($title): ?>
+    <?php if ($author): ?>
       <h3<?php print $title_attributes; ?>>
-        <?php print $title; ?>
+        <?php print $author; ?>
         <?php if ($new): ?>
           <mark class="new label label-important"><?php print $new; ?></mark>
         <?php endif; ?>
