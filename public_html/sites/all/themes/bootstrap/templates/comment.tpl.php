@@ -1,5 +1,5 @@
 <article class="<?php print $classes . ' ' . $zebra; ?>"<?php print $attributes; ?>>
-  
+
   <header>
     <p class="submitted">
       <?php print $picture; ?>
