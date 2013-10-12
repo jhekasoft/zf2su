@@ -1,4 +1,4 @@
-<article class="<?php print $classes . ' ' . $zebra; ?>"<?php print $attributes; ?>>
+<article class="<?php print $classes . ' ' . $zebra; ?> well"<?php print $attributes; ?>>
 
   <header>
     <p class="submitted">
